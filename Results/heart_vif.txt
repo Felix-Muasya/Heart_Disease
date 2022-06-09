@@ -1,0 +1,15 @@
+     feature        VIF
+0        age  38.882441
+1        sex   3.792920
+2         cp   2.566095
+3   trestbps  57.978546
+4       chol  26.208367
+5        fbs   1.272173
+6    restecg   2.073125
+7    thalach  47.110371
+8      exang   2.111290
+9    oldpeak   3.182085
+10     slope   9.990892
+11        ca   1.960731
+12      thal  17.183907
+13    target   4.108633

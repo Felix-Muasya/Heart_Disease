@@ -1,0 +1,15 @@
+                    feature        VIF
+0                       Age  41.199724
+1                       Sex   3.995537
+2           Chest pain type  14.495316
+3                        BP  60.806622
+4               Cholesterol  27.850544
+5              FBS over 120   1.262712
+6               EKG results   2.257151
+7                    Max HR  36.562337
+8           Exercise angina   2.074103
+9             ST depression   3.361991
+10              Slope of ST  12.387604
+11  Number of vessels fluro   2.195494
+12                 Thallium  11.188453
+13            Heart Disease   3.931931
